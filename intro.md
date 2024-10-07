@@ -1,12 +1,12 @@
-#Martine Utheim
+# Martine Utheim
 
-##Technologies I am familiar with: 
+## Technologies I am familiar with: 
 - *HTML, CSS*
 
-##Technologies I want to learn:
+## Technologies I want to learn:
 - *Java, APIs, Databases*
 
-##My Background:
+## My Background:
 <p>- **I am a teacher with a background in Political Science and Foreign Language Studies**</p>
 
 ## My Hobbies:
