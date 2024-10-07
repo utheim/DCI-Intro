@@ -4,7 +4,7 @@
 - *HTML, CSS*
 
 ##Technologies I want to learn:
-- *Java*
+- *Java, APIs, Databases*
 
 ##My Background:
 <p>- **I am a teacher with a background in Political Science and Foreign Language Studies**</p>
